@@ -1,5 +1,5 @@
 # SimpleSiteSelector
-The "SimpleSiteSelector" is a script to provide a user choosen site assignment or enforced site assignment. GUI is based on swiftDialog.
+The "SimpleSiteSelector" is a script to provide a user choosen or enforced site assignment via jamf pro (or other mdm). GUI is based on swiftDialog.
 The "SimpleSiteSelector" could be run directly after enrollment or within enrollment.
 
 I will publish the SimpleEnrollmentScript with the site selectore feature too soon, to provide site assignment during prestage enrollment.
