@@ -1,5 +1,8 @@
 # SimpleSiteSelector
-Contains scripts to fix some requirements on customer enviroments
+The "SimpleSiteSelector" is a script to provide a user choosen site assignment or enforced site assignment. GUI is based on swiftDialog.
+The "SimpleSiteSelector" could be run directly after enrollment or within enrollemnt.
+
+I will publish the SimpleEnrollmentScript with the site selectore feature too soon, to provide site assignment during prestage enrollment.
 
 Why i created the script?
 
