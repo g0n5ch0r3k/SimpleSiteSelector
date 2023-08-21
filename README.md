@@ -16,7 +16,7 @@ Witht he provided informations the Script assign the device to the desired site 
 
 # The script will be configured by the script paramters:
 
-- Parameter 4: Available site IDs for usermode (single id) or bulk (comma seperated)
+- Parameter 4: Available site IDs for bulk (single id) or usermode (comma seperated)
 - Parameter 5: mode "usermode" or "bulk"
 - Parameter 6: Jamf api username (see user permission requirements)
 - Parameter 7: Jamf api password
