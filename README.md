@@ -36,10 +36,13 @@ Witht he provided informations the Script assign the device to the desired site 
 # Parameter 6
 - API username
 - requires the following API rights
+--> Users: Read, Update
+--> Computers: Read, Update
+--> Site: Read, Update
 
 # Parameter 7
 - secure password
-- lenght 20, contains a-z,A-Z,1-9.Symbols
+- lenght min 20, contains a-z,A-Z,1-9.Symbols
 
 # Parameter 8
 - script titel shown for the GUI
