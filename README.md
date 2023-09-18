@@ -42,7 +42,7 @@ Witht he provided informations the Script assign the device to the desired site 
 
 # Parameter 7
 - secure password
-- lenght min 20, contains a-z,A-Z,1-9.Symbols
+- recommended lenght: min 20, contains a-z,A-Z,1-9.Symbols
 
 # Parameter 8
 - script titel shown for the GUI
